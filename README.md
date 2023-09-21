@@ -16,3 +16,6 @@ Step 6: Create a Function to Calculate and Display the Result
 Step 7: Create the "=" Button
 
 Step 8: Run the Tkinter Main Loop
+
+# output
+![image](https://github.com/Latasharma26/Calculator_Python_Tkinter/assets/96385877/b283eece-9e0f-4233-b526-1eda47429ce8)
